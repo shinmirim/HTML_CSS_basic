@@ -1,0 +1,146 @@
+@import url('https://fonts.google.com/noto/specimen/Noto+Sans+KR?subset=korean&preview.text=Almost%20before%20wyhgfhe%20knew%20it,%20we%20had%20left%20the%20ground.&preview.text_type=custom');
+
+*{
+    font-family: 'Noto Sans korean';
+}
+
+body,h1,h1{
+    margin: 0px;
+    padding: 0px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+
+.nametext{
+    margin: 20px;
+   
+}
+h2{
+   text-align: left;
+   margin-left: 20px;
+}
+header{
+    font-size:5px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: #B388FF;
+    color: black;
+    font-size: 12px;
+    padding: 20px;
+}
+
+.float-wrap{
+    overflow: hidden;
+}
+
+.mainbox{
+    border: 10px double #B388FF;
+    padding: 100px;
+    box-shadow: 10px 10px 10px 10px #540b501a;
+    margin: 30px;
+    height: 1000px;
+    
+
+    
+}
+.titlebox{
+   text-align: right;
+   background-color: #D1C4E9;
+   border-radius: 10px;
+   border: 10px double #B388FF ;
+   
+} 
+
+.projectname{
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    margin-left: 20px;
+}
+
+.projectyear{
+    font-size: 15px;
+    font-weight: bold;
+    color: #9E9E9E;
+    float: right;
+}
+
+.mainright{
+    float: right;
+    width: 800px;
+    border-left: thick solid #B388FF;
+
+}   
+
+.mainleft{
+    float:left;
+    width: 400px;
+    
+}
+
+.imgme{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.imgicon{
+    width: 20px;
+    height: 20px;
+ 
+}
+
+.language{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.sns-img{
+    width: 20px;
+    height: 20px;
+}
+
+.sns-wrap{
+    clear:both;
+    margin-top: 50px;
+    text-align: right;
+}
+
+
+
+
+.iam{
+    font-size: 30px;
+    color :#B388FF;
+    font-weight: bold;
+}
+
+.mainbottom{
+    clear: both;
+    padding: 30px;
+    border-top: thick solid #B388FF ;
+   
+
+}
+
+.iamimg1{
+    width: 200px;
+    height: 200px;
+}
+
+.iamimg2{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+}
+
+.iamimg3{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+}

@@ -10,7 +10,9 @@ body,h1,h1{
     padding: 0px;
 }
 
-
+body{
+    min-width: fit-content;
+}
 
 h1{
     font-size: 36px;
